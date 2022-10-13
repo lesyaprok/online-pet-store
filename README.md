@@ -1,5 +1,3 @@
-https://trusting-banach-7205ba.netlify.app
-
 # internet-shop
 
 ## Project setup
